@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Rutas que el FileProvider puede exponer como content://.
+  root-path cubre tarjetas microSD y rutas arbitrarias, necesarias porque la
+  raíz de ROMs es configurable y puede estar en almacenamiento adoptable.
+-->
+<paths>
+    <external-path
+        name="external_storage"
+        path="." />
+    <root-path
+        name="any_storage"
+        path="." />
+    <files-path
+        name="internal_files"
+        path="." />
+</paths>

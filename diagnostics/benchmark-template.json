@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "run_id": "YYYYMMDD-sistema-r1",
+  "system": "snes",
+  "run": "r1",
+  "date": "YYYY-MM-DD",
+  "device": {
+    "model": "21061119AL",
+    "codename": "selene",
+    "android": "",
+    "build": ""
+  },
+  "emulator": {
+    "name": "RetroArch",
+    "version": "",
+    "core": "",
+    "core_version": ""
+  },
+  "content": {
+    "rom_file": "",
+    "rom_sha256": "",
+    "region": "",
+    "scene": ""
+  },
+  "settings": {
+    "brightness_percent": 50,
+    "display_hz": 60,
+    "vsync": true,
+    "shader": "none",
+    "internal_resolution": "1x",
+    "frameskip": 0,
+    "airplane_mode": true,
+    "audio_on": true
+  },
+  "environment": {
+    "ambient_temp_c": null,
+    "start_battery_percent": 80,
+    "start_battery_temp_c": 30,
+    "end_battery_percent": 0,
+    "end_battery_temp_c": 0
+  },
+  "samples": [
+    {
+      "minute": 5,
+      "fps": 0,
+      "frametime_p50_ms": 0,
+      "frametime_p95_ms": 0,
+      "dropped_frames_percent": 0,
+      "battery_temp_c": 0,
+      "thermal_zone_c": null,
+      "throttling": false,
+      "notes": ""
+    }
+  ],
+  "summary": {
+    "fps_avg": 0,
+    "frametime_p50_ms": 0,
+    "frametime_p95_ms": 0,
+    "frametime_p99_ms": 0,
+    "dropped_frames_percent": 0,
+    "stability_events": 0,
+    "verdict": "pendiente",
+    "valid": false
+  },
+  "notes": ""
+}

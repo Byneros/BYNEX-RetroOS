@@ -1,0 +1,2 @@
+# Toolchain local de compilación (Gradle + Android SDK), no forma parte del proyecto.
+.tooling/

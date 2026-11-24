@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BYNEX Retro</string>
+    <string name="settings">Ajustes</string>
+    <string name="settings_title">Carpeta de ROMs</string>
+    <string name="settings_message">Ruta absoluta de la carpeta que contiene subcarpetas por sistema (nes, snes, gb, gba, megadrive, psx, n64, psp, dreamcast).</string>
+    <string name="folder_hint">/storage/emulated/0/roms</string>
+    <string name="no_folder">Configura la carpeta de ROMs en Ajustes.</string>
+    <string name="no_roms">No se encontraron ROMs en %1$s</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="emulator_missing">No hay un emulador compatible instalado. Instala RetroArch o Lemuroid.</string>
+    <string name="lemuroid_manual">Lemuroid se ha abierto, pero no recibe la ROM desde el launcher. Ábrela manualmente: %1$s</string>
+    <string name="open_with">Abrir ROM con</string>
+    <string name="long_press_hint">Toca «Abrir con» o mantén pulsada una ROM para abrirla con otra aplicación.</string>
+    <string name="open_with_short">Abrir con</string>
+    <string name="open_with_unavailable">Ninguna aplicación instalada acepta este archivo.</string>
+    <string name="open_with_error">No se pudo compartir la ROM: la ruta queda fuera de las permitidas.</string>
+</resources>
